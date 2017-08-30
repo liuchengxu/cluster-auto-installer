@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 MASTER_USERNAME="root"
-MASTER_HOST="172.104.76.231"
-MASTER_PWD="xixihaha2009"
+MASTER_HOST="Master IP"
+MASTER_PWD="Master password"
 
 DST_USERNAME="root"
-DST_PWD="xixihaha2009"
+DST_PWD="Slave password"
 
 # Generate pubkey in remote host
 # Usage: generate_pub user host password
